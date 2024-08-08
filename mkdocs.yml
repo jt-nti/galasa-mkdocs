@@ -32,12 +32,13 @@ theme:
   - navigation.expand
   - navigation.footer
   - navigation.instant
-  - navigation.tabs
-  - navigation.tabs.sticky
-  - navigation.top
+  - navigation.sections
+  # - navigation.tabs
+  # - navigation.tabs.sticky
+  # - navigation.top
   - navigation.tracking
   - toc.follow
-  - toc.integrate
+  # - toc.integrate
 markdown_extensions:
   - abbr
   - admonition
@@ -83,5 +84,3 @@ plugins:
 extra:
   version:
     provider: mike
-nav:
-  - Introduction: index.md
