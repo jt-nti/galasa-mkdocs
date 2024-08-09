@@ -31,11 +31,12 @@ theme:
   - content.code.copy
   - navigation.expand
   - navigation.footer
+  - navigation.indexes
   - navigation.instant
-  - navigation.sections
+  # - navigation.sections
   # - navigation.tabs
   # - navigation.tabs.sticky
-  # - navigation.top
+  - navigation.top
   - navigation.tracking
   - toc.follow
   # - toc.integrate
@@ -79,8 +80,30 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 plugins:
+  - offline
   - search
   - mike
 extra:
   version:
     provider: mike
+nav:
+  - index.md
+  - Getting started using the Galasa CLI:
+    - cli-command-reference/index.md
+    - cli-command-reference/cli-prereqs.md
+  - Exploring the supplied SimBank tests:
+    - running-simbank-tests/index.md
+    - running-simbank-tests/simbank-IVT.md
+  - Writing your own independent Galasa tests:
+    - writing-own-tests/index.md
+    - writing-own-tests/writing-test-classes.md
+  - The Galasa Ecosystem:
+    - ecosystem/index.md
+    - ecosystem/ecosystem-architecture.md
+  - upgrading.md
+  - Managers:
+    - managers/index.md
+    - manager-groups/cics-ts-manager-group.md
+  - Reference:
+    - reference/index.md
+    - reference/galasa-javadoc.md
