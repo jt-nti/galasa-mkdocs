@@ -103,7 +103,10 @@ nav:
   - upgrading.md
   - Managers:
     - managers/index.md
-    - manager-groups/cics-ts-manager-group.md
+    - CICS TS Managers:
+      - managers/cics-ts-managers/index.md
+      - managers/cics-ts-managers/cics-ts-ceci-manager.md
+      - managers/cics-ts-managers/cics-ts-manager.md
   - Reference:
     - reference/index.md
     - reference/galasa-javadoc.md
