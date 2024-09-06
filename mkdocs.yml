@@ -1,5 +1,5 @@
-site_name: Galasa documentation
-site_description: Documentation for the Galasa hybrid software test runner and reporting platform
+site_name: Galasa
+site_description: Galasa hybrid software test runner and reporting platform
 repo_name: galasa-mkdocs
 repo_url: https://github.com/jt-nti/galasa-mkdocs
 docs_dir: docs
