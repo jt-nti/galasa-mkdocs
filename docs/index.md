@@ -31,7 +31,7 @@ Allowing you to test applications at scale regardless of platform — including 
 
     ---
 
-    ![](../assets/images/key-features/illustrations-galasa-02.inline.svg)
+    ![](assets/images/key-features/illustrations-galasa-02.inline.svg)
 
 -   __Focus on the test – not the integration problems__
 
@@ -41,7 +41,7 @@ Allowing you to test applications at scale regardless of platform — including 
 
     ---
 
-    ![](../assets/images/key-features/illustrations-galasa-05.inline.svg)
+    ![](assets/images/key-features/illustrations-galasa-05.inline.svg)
 
 -   __Get the test data you need – fast__
 
@@ -51,7 +51,7 @@ Allowing you to test applications at scale regardless of platform — including 
 
     ---
 
-    ![](../assets/images/key-features/illustrations-galasa-03.inline.svg)
+    ![](assets/images/key-features/illustrations-galasa-03.inline.svg)
 
 -   __See the big picture – from one location__
 
@@ -61,7 +61,7 @@ Allowing you to test applications at scale regardless of platform — including 
 
     ---
 
-    ![](../assets/images/key-features/illustrations-galasa-04.inline.svg)
+    ![](assets/images/key-features/illustrations-galasa-04.inline.svg)
 
 -   __Test planning and recording – made easy__
 
@@ -71,7 +71,7 @@ Allowing you to test applications at scale regardless of platform — including 
 
     ---
 
-    ![](../assets/images/key-features/illustrations-galasa-06.inline.svg)
+    ![](assets/images/key-features/illustrations-galasa-06.inline.svg)
 
 -   __Keep on growing – Galasa grows with you__
 
@@ -81,7 +81,7 @@ Allowing you to test applications at scale regardless of platform — including 
 
     ---
 
-    ![](../assets/images/key-features/illustrations-galasa-07.inline.svg)
+    ![](assets/images/key-features/illustrations-galasa-07.inline.svg)
 
 </div>
 
