@@ -15,7 +15,7 @@ Allowing you to test applications at scale regardless of platform — including 
 [Learn more](./about){ .md-button }
 [0.36.0 highlights](./releases){ .md-button }
 
-<!-- TODO image only works on a blue background? -->
+<!-- TODO image only works on a blue background -->
 <!-- ![](../assets/images/illustrations-galasa-08.svg) -->
 
 </div>
