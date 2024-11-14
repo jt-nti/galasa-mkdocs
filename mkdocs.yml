@@ -6,7 +6,7 @@ docs_dir: docs
 extra_css:
   - assets/stylesheets/extra.css
 theme:
-  custom_dir: docs/overrides
+  # custom_dir: docs/overrides
   name: material
   logo: assets/galasa-horizontal-white.png
   favicon: assets/galasa-icon-color.png
