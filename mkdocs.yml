@@ -3,6 +3,8 @@ site_description: Galasa hybrid software test runner and reporting platform
 repo_name: galasa-mkdocs
 repo_url: https://github.com/jt-nti/galasa-mkdocs
 docs_dir: docs
+extra_css:
+  - assets/stylesheets/extra.css
 theme:
   custom_dir: docs/overrides
   name: material
