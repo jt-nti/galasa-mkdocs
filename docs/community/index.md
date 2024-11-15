@@ -1,6 +1,9 @@
 ---
 path: "/community"
 title: "Get involved"
+icon: material/chat
+hide:
+  - navigation
 ---
 
 Galasa thrives on users’ collaboration, contributions and creativity and we invite you to share your skills and ideas at all levels.

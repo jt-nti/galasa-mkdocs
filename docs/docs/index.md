@@ -1,6 +1,7 @@
 ---
 path: "/docs/architecture"
 title: "Architecture"
+icon: material/book-open-variant
 ---
  
 To get going with Galasa as quickly as possible, explore the [Getting started using the Galasa CLI](/docs) section. Read on to learn a little about Galasa's architecture and key components.

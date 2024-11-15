@@ -1,6 +1,7 @@
 ---
 path: "/releases"
 title: "Highlights"
+icon: material/tag-multiple
 ---
 
 # Galasa Delivery

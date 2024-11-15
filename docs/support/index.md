@@ -1,6 +1,9 @@
 ---
 path: "/support"
 title: "Support"
+icon: material/lifebuoy
+hide:
+  - navigation
 ---
 
 If you find any problems whilst you’re using Galasa, get in touch and get the help you need:

@@ -1,6 +1,7 @@
 ---
 path: "/about"
 title: "About Galasa"
+icon: material/information
 ---
 
 Galasa, <a href="https://openmainframeproject.org/projects/galasa/" target="_blank">
