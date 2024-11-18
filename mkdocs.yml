@@ -2,6 +2,7 @@ site_name: Galasa
 site_description: Galasa hybrid software test runner and reporting platform
 repo_name: galasa-mkdocs
 repo_url: https://github.com/jt-nti/galasa-mkdocs
+edit_uri: edit/main/docs/
 docs_dir: docs
 extra_css:
   - assets/stylesheets/extra.css
@@ -32,6 +33,8 @@ theme:
         name: Switch to system preference
   features:
   - content.code.copy
+  - content.action.edit
+  - content.action.view
   - navigation.expand
   - navigation.footer
   - navigation.indexes
