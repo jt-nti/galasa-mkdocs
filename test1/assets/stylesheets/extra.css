@@ -1,0 +1,13 @@
+.galasa-hero {
+    padding: 3em;
+}
+
+.galasa-hero .md-button {
+    margin-bottom: .5em;
+    margin-right: .5em;
+}
+
+/* TODO some way to add a bit of blue to the top of only the home page? */
+.home-blue-bg {
+    background: linear-gradient(to top, var(--md-accent-bg-color) 0 80%, var(--md-accent-fg-color) 80% 100%);
+}
